@@ -379,3 +379,5 @@ C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\bin\
 C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\obj\Debug\net6.0\BulkyBooksweb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\obj\Debug\net6.0\BulkyBooksweb.csproj.CopyComplete
+C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SAAGAR TIMALSENA\Desktop\ZeroToAdvance\BulkyBooksweb\BulkyBooksweb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
